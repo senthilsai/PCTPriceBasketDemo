@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PriceBasket": {
+      "commandName": "Project",
+      "commandLineArgs": "Apples Milk Bread Bread Soup Soup"
+    }
+  }
+}

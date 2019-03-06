@@ -1,0 +1,15 @@
+
+[{
+	"DiscountedProductID" : 4,
+	"EligibleProductID" : 4,
+	"EligibleQuantity" : 1,
+  "DiscountPercent": 10,
+  "DiscountDescription" :  "10% off"
+},
+{
+	"DiscountedProductID" : 2,
+	"EligibleProductID" : 1,
+	"EligibleQuantity" : 2,
+  "DiscountPercent": 50,
+  "DiscountDescription" :  "Buy 2 Tins of Soup and get a Loaf of Bread half price"
+}]

@@ -1,0 +1,29 @@
+[{
+	"ProductID" : 1,
+	"ProductName" : "Soup",
+	"UnitPrice" : 0.65,
+	"SingleUnit" : "Tin",
+	"MultipleUnits" : "Tins"
+},
+{
+	"ProductID" : 2,
+	"ProductName" : "Bread",
+	"UnitPrice" : 0.80,
+	"SingleUnit" : "Loaf",
+	"MultipleUnits" : "Loaves"
+},
+{
+	"ProductID" : 3,
+	"ProductName" : "Milk",
+	"UnitPrice" : 1.30,
+	"SingleUnit" : "Bottle",
+	"MultipleUnits" : "Bottles"
+},
+{
+	"ProductID" : 4,
+	"ProductName" : "Apples",
+	"UnitPrice" : 1.00,
+	"SingleUnit" : "Bag",
+	"MultipleUnits" : "Bags"
+}
+]
